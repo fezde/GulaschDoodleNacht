@@ -134,10 +134,10 @@ void setup() {
    * click the button to generate the access tokens for your account
    * copy and paste those values as well below
    */
-  simpletweet.setOAuthConsumerKey("FfmExjPkRAyiZrAXEb2N8MqNr");
-  simpletweet.setOAuthConsumerSecret("cTwjeApPole3KqmR3d10PzIFI56NSqs4NJNu9J8Du8WTjVUyW2");
-  simpletweet.setOAuthAccessToken("17615976-mk4SijH1ijqGpS31gSrMuQSoP08AdrAZKiYJ6dMiO");
-  simpletweet.setOAuthAccessTokenSecret("uW7ivD84OaJurc0EdjgCqvuXqnRy0hjMwbmCyZnrh6EE9");
+  simpletweet.setOAuthConsumerKey("TODO-READ-THIS-FROM-FILE");
+  simpletweet.setOAuthConsumerSecret("TODO-READ-THIS-FROM-FILE");
+  simpletweet.setOAuthAccessToken("TODO-READ-THIS-FROM-FILE");
+  simpletweet.setOAuthAccessTokenSecret("TODO-READ-THIS-FROM-FILE");
 
   tweets = search("#gpn19");
   println("Tweets loaded");
